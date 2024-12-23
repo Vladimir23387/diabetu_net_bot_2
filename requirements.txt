@@ -1,0 +1,10 @@
+openai==0.28.0
+python-telegram-bot==20.3
+pandas
+sqlalchemy
+python-dotenv
+python-docx
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
